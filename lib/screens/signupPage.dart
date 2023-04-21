@@ -74,15 +74,22 @@ class _SignupPageState extends State<SignupPage> {
               child: ListView(
                 shrinkWrap: true,
                 children: [
-                  Hero(
-                    tag: 'kazalogo',
-                    child: Image.asset(
-                      'lib/assets/images/kaza-logo.png',
-                      width: 250,
-                      height: 250,
-                      color: Colors.orange,
-                    ),
-                  ),
+                  // const Hero(
+                  //     tag: 'kazalogo',
+                  //     child: Text(
+                  //       'Choupati',
+                  //       style: TextStyle(
+                  //         fontWeight: FontWeight.bold,
+                  //         color: Colors.orange,
+                  //       ),
+                  //     )
+                  //     // Image.asset(
+                  //     //   'lib/assets/images/kaza-logo.png',
+                  //     //   width: 250,
+                  //     //   height: 250,
+                  //     //   color: Colors.orange,
+                  //     // ),
+                  //     ),
                   Align(
                     alignment: Alignment.center,
                     child: Text(

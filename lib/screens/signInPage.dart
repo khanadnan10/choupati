@@ -72,17 +72,17 @@ class _SigninPageState extends State<SigninPage> {
                   const SizedBox(
                     height: 70.0,
                   ),
-                  Hero(
-                    tag: 'kazalogo',
-                    child: Image.asset(
-                      'lib/assets/images/kaza-logo.png',
-                      height: 150,
-                      color: Colors.orange,
-                    ),
-                  ),
+                  // Hero(
+                  //   tag: 'kazalogo',
+                  //   child: Image.asset(
+                  //     'lib/assets/images/kaza-logo.png',
+                  //     height: 150,
+                  //     color: Colors.orange,
+                  //   ),
+                  // ),
                   const Align(
                       alignment: Alignment.center,
-                      child: Text('Enhancing one\'s experience of the world.')),
+                      child: Text('Enhancing street food experience')),
                   const SizedBox(
                     height: 70.0,
                   ),

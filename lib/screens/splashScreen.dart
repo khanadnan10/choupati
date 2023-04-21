@@ -23,14 +23,17 @@ class SplashScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: const [
             Center(
-              child: Image(
+                child: Text(
+              'Choupati',
+              style: TextStyle(
+                fontSize: 70,
+                fontWeight: FontWeight.bold,
                 color: Colors.white,
-                height: 150.0,
-                image: AssetImage('lib/assets/images/kaza-logo.png'),
+
               ),
-            ),
+            )),
             Text(
-              'Enhancing one\'s experience of the world',
+              'Enhancing street food experience',
               style: TextStyle(
                 fontSize: 18.0,
                 color: Colors.white,
