@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "971820784676",
+    "firebase_url": "https://kaza-app-1e3f1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kaza-app-1e3f1",
+    "storage_bucket": "kaza-app-1e3f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971820784676:android:cb7c8df36f0aa50d908cb1",
+        "android_client_info": {
+          "package_name": "in.kazafoods.kaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971820784676-8efutr8noo89kvh09sedpt8vf4ld2gh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRwhguDWSmS5GWXGq1Z2H9MgAMe0dd4JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971820784676-8efutr8noo89kvh09sedpt8vf4ld2gh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971820784676-hb2143late0bqgf0inukiavjcsguk5kv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kazaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
